@@ -86,8 +86,10 @@ nav button {
     display: none;
   }
 }
-main {
-  padding-bottom: 4rem;
+.about-author {
+  padding: 0 2rem 4rem;
+  display: flex;
+  align-items: flex-start;
 }
 .weather-card {
   background-color: var(--blue);
